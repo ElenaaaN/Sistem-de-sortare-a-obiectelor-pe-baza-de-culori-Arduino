@@ -141,6 +141,3 @@ Acest proiect poate fi extins prin:
 
 ---
 
-## Autor
-
-Proiect realizat pentru demonstrarea unui sistem inteligent de sortare bazat pe culoare, implementat cu Arduino.
